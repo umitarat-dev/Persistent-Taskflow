@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Storage-LocalStorage-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SASS-Styling-CC6699?logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel&logoColor=white" />
 </p>
 
