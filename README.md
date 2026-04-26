@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/LocalStorage-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 <h1 align="center">🚀 Persistent Taskflow</h1>
 
 <p align="center">
-A modern, high-performance **React Task Management** application. Designed for efficiency, it ensures your tasks are never lost by utilizing **LocalStorage persistence**.
+  A modern, high-performance <b>React Task Management</b> application designed for efficiency. 
+  It ensures an uninterrupted user experience by utilizing <b>LocalStorage persistence</b>, 
+  keeping your data safe even after browser restarts.
 </p>
 
 <div align="center">
