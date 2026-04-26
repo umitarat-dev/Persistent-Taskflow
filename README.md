@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Persistent TaskFlow</h1>
+<h1 align="center">🚀 Persistent Taskflow</h1>
 
 <p align="center">
 A modern, high-performance **React Task Management** application. Designed for efficiency, it ensures your tasks are never lost by utilizing **LocalStorage persistence**.
@@ -7,25 +7,22 @@ A modern, high-performance **React Task Management** application. Designed for e
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/React-Project-Task-Tracker-Single-Page/">
+    <a href="https://persistent-taskflow-umitdev.vercel.app/">
       🖥️ Live Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/React-Project-Task-Tracker-Single-Page.git">
-      📂 Project
+    <a href="https://github.com/umitarat-dev/Persistent-Taskflow.git">
+      📂 Repository
     </a>
   </h3>
 </div>
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
+## Navigation
 - [✨ Overview](#-overview)
 - [📖 Description](#-description)
 - [🚀 Features](#-features)
 - [🗂️ Project Skeleton](#️-project-skeleton)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [⚡ How To Use](#with)
 - [⚡ How To Use](#-how-to-use)
 - [📌 About This Project](#-about-this-project)
 - [🙏 Acknowledgements](#-acknowledgements)
@@ -117,10 +114,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/), [Nod
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/React-Project-Task-Tracker-Single-Page.git
+$ git clone https://github.com/umitarat-dev/Persistent-Taskflow.git
 
 # Navigate into the project folder
-$ cd React-Project-Task-Tracker-Single-Page
+$ cd Persistent-Taskflow
 
 # Install dependencies
 $ yarn  
