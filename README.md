@@ -44,7 +44,11 @@ Users can add, delete, and mark tasks as done. All data is persisted in localSto
 A simple Task Tracker App built with React.
 Users can add, delete, and toggle tasks. Tasks are saved to localStorage so they remain after refresh.
 
-<div align="center"> <img src="./assets/Persistent-Taskflow.gif" alt="task tracker demo" width="700"/> </div>
+<p align="center">
+  <a href="https://persistent-taskflow-umitdev.vercel.app/">
+    <img src="./assets/Persistent-Taskflow.gif" alt="Persistent-Taskflow" width="700"/>
+  </a>
+</p>
 
 ---
 
