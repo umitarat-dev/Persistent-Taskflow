@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/LocalStorage-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Storage-LocalStorage-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SASS-Styling-CC6699?logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel&logoColor=white" />
 </p>
 
 <h1 align="center">🚀 Persistent Taskflow</h1>
